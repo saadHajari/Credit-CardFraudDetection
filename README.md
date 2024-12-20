@@ -38,8 +38,8 @@ Fraud detection is a critical application of data science and machine learning. 
 
 ## 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-detection.git
-   cd fraud-detection
+   git clone https://github.com/saadHajari/Credit-CardFraudDetection.git
+   cd Credit-CardFraudDetection
  ```
 
 ## 2. pip install -r requirements.txt
