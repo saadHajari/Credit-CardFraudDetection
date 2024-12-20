@@ -87,10 +87,15 @@ The evaluation metrics will be saved in
 Each dataset simulates a specific fraud scenario with features such as:
 
 **Transaction Day:** Day of the transaction and velocity.
+
 **Transaction Type:** Type and time of the transaction.
+
 **Device Used:** Device type and location risk.
+
 **Recurring Payment:** Frequency and velocity of payments.
+
 **Customer Age Group:** Customer demographics and geo-mismatch.
+
 **Previous Transaction:** Details of past transactions and unusual merchants
 
 **Example** : 
