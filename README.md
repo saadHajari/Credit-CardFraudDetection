@@ -70,10 +70,10 @@ python data_gen2.py  # Generates datasets in iteration2/
 ### Step 2: Train and Evaluate Models
 
 ```bash
-**python model_logistic.py**  load datasets from iteration1/ and iteration2/ and train LogisticRegression and test the model
+python model_logistic.py #load datasets from iteration1/ and iteration2/ and train LogisticRegression and test the model
  ```
 ```bash
-**python model_random.py**    load datasets from iteration1/ and iteration2/ and train RandomForest and test the model 
+python model_random.py   #load datasets from iteration1/ and iteration2/ and train RandomForest and test the model 
  ```
 
 The evaluation metrics will be saved in
@@ -155,7 +155,7 @@ Implement hyperparameter tuning for better model performance.✅
 
 Visualize results using dashboards.✅
 
-### Contact And Donate
+### Contact 
 
 **For Contact** : Send me an email in : **saadhajari10@gmail.com**
 
