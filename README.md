@@ -1,6 +1,6 @@
 # Fraud Detection with Synthetic Data and Machine Learning
 
-This project focuses on detecting fraudulent transactions using synthetic datasets generated through Python scripts. The datasets are iteratively created to simulate various fraud scenarios, and two machine learning models, Logistic Regression and Random Forest, are trained to classify transactions as fraudulent or not.
+This project focuses on detecting **fraudulent transactions** using **synthetic** **datasets** generated through **Python scripts**. The datasets are iteratively created to simulate various **fraud scenarios**, and two machine learning models, **Logistic Regression and Random Forest**, are trained to classify transactions as fraudulent or not.
 ![project_linkedin](https://github.com/user-attachments/assets/638d7f9f-6a6e-43bb-891a-16a8a7025269)
 
 ---
